@@ -4,6 +4,7 @@ Projeto Programação
 Cross words game, with an algorithm that searches for the best possible score with a specific set of words to use.
 
 Compiler Arguments to run the project:
+
   -t: A opção -t indica a dimensão do tabuleiro no formato linhaxcoluna -r: define ficheiro para registo de todas as jogadas possíveis.  
   -d: nome do ficheiro de dicionário a utilizar.                                                                                          
   -l: nome do ficheiro com letras a usar nas jogadas.                                                                                  
