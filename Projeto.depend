@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1650310827 source:/home/kubuntu/Desktop/projeto/Projeto/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<getopt.h>
+
+1650888906 source:/home/kubuntu/Desktop/projeto/Projeto/Algor_Jogo.c
+	"Palavras.h"
+
+1650888906 /home/kubuntu/Desktop/projeto/Projeto/Palavras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<getopt.h>
+
+1650888873 source:/home/kubuntu/Desktop/projeto/Projeto/Board_Plays.c
+	"Palavras.h"
+
+1650889740 source:/home/kubuntu/Desktop/projeto/Projeto/FileIO_funcs.c
+	"Palavras.h"
+
+1650888873 source:/home/kubuntu/Desktop/projeto/Projeto/Board_funcs.c
+	"Palavras.h"
+
+1650888873 source:/home/kubuntu/Desktop/projeto/Projeto/Free_mem.c
+	"Palavras.h"
+
+1650890099 source:/home/kubuntu/Desktop/projeto/Projeto/Palavras.c
+	"Palavras.h"
+
+1650916922 source:/home/kubuntu/Desktop/Projeto2/Algor_Jogo.c
+	"Palavras.h"
+
+1650917868 /home/kubuntu/Desktop/Projeto2/Palavras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<getopt.h>
+
+1650916946 source:/home/kubuntu/Desktop/Projeto2/Board_funcs.c
+	"Palavras.h"
+
+1650916672 source:/home/kubuntu/Desktop/Projeto2/Board_Plays.c
+	"Palavras.h"
+
+1650918822 source:/home/kubuntu/Desktop/Projeto2/FileIO_funcs.c
+	"Palavras.h"
+
+1650916970 source:/home/kubuntu/Desktop/Projeto2/Free_mem.c
+	"Palavras.h"
+
+1650920287 source:/home/kubuntu/Desktop/Projeto2/Palavras.c
+	"Palavras.h"
+
